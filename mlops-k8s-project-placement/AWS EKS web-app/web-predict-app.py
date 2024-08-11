@@ -102,7 +102,7 @@ select::after {
         </style>
     </head>
             <body>
-            <h1>Model Inference Dashboard-Psitron</h1>
+            <h1>Model Inference Dashboard</h1>
             <hr>
           
          
@@ -157,7 +157,7 @@ select::after {
                 <br>
                  <br>
                 <footer>
-      <p>Copyright &copy; 2023 Psitron Technologies Pvt.Ltd</p>
+      <p>Copyright &copy; 2023 JP</p>
     </footer>
             </body>
         </html>
